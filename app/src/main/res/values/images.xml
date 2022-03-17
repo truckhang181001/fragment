@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ocean">
+        <item>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ocean-quotes-index-1624414741.jpg</item>
+        <item>https://oceanvodka.com/uploads/2019/04/HP-Hero-Header@2x.jpg</item>
+        <item>https://s3.amazonaws.com/ghost-cms-woi/2021/06/BlueRecovery.jpg</item>
+    </string-array>
+    <string-array name="forest">
+        <item>https://media.cntraveler.com/photos/5eb18e42fc043ed5d9779733/16:9/w_2580,c_limit/BlackForest-Germany-GettyImages-147180370.jpg</item>
+        <item>https://www.treehugger.com/thmb/QolJfOYFmxwIH6Sxv5SBqY8Kq-M=/1885x1414/smart/filters:no_upscale()/GettyImages-1273584292-cbcd5f85f4c646d58f7a7fa158dcaaeb.jpg</item>
+        <item>https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2004/06/forest/10237716-2-eng-GB/Forest_pillars.jpg</item>
+    </string-array>
+    <string-array name="sky">
+        <item>https://www.adorama.com/alc/wp-content/uploads/2017/11/shutterstock_114802408.jpg</item>
+        <item>https://images.freeimages.com/images/large-previews/1e6/colorful-sky-1640504.jpg</item>
+        <item>https://i.ytimg.com/vi/d3YSD9qEqBk/maxresdefault.jpg</item>
+    </string-array>
+    <array name="images">
+        <item>@array/ocean</item>
+        <item>@array/forest</item>
+        <item>@array/sky</item>
+    </array>
+</resources>
